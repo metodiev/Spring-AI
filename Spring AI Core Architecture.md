@@ -1,4 +1,4 @@
-# ☕ Spring AI Core Architecture (Deep Dive)
+# Spring AI Core Architecture (Deep Dive)
 
 ---
 
