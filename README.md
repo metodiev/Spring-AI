@@ -35,7 +35,7 @@ Spring AI
 7. Multi-model orchestration
 8. Rate limiting strategies
 
-##4. Prompt Engineering (Deep Dive)
+## 4. Prompt Engineering (Deep Dive)
 1. Prompt structure patterns
 2. Role-based prompting
 3. Few-shot prompting
